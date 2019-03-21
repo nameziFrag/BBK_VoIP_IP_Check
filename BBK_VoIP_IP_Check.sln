@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBK_VoIP_IP_Check", "BBK_VoIP_IP_Check\BBK_VoIP_IP_Check.csproj", "{136B77B4-0505-4445-8ED8-4946690D6D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136B77B4-0505-4445-8ED8-4946690D6D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136B77B4-0505-4445-8ED8-4946690D6D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136B77B4-0505-4445-8ED8-4946690D6D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136B77B4-0505-4445-8ED8-4946690D6D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34777F4A-84E8-4106-9C91-FC0C8F337C45}
+	EndGlobalSection
+EndGlobal
